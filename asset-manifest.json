@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/raj-homework/static/css/main.ad48b845.css",
+    "main.js": "/raj-homework/static/js/main.ad07d737.js",
+    "index.html": "/raj-homework/index.html",
+    "main.ad48b845.css.map": "/raj-homework/static/css/main.ad48b845.css.map",
+    "main.ad07d737.js.map": "/raj-homework/static/js/main.ad07d737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad48b845.css",
+    "static/js/main.ad07d737.js"
+  ]
+}
